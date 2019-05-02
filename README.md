@@ -51,7 +51,7 @@ skim project contains several components:
 Clone this repository and run the install script:
 
 ```sh
-git clone --depth 1 git@github.com:lotabout/skim.git ~/.skim
+git clone --depth 1 https://github.com/lotabout/skim.git ~/.skim
 ~/.skim/install
 ```
 
